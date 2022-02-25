@@ -1,0 +1,757 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rome for good news, or, Good news from Rome in a dialogue between seminary priest, and a supposed Protestant, at large. An exhortation to bishops. Whereunto is also annexed a discourse between a poor man, and his wife.</title>
+            <author>Wallis, Ralph, d. 1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67421</idno>
+            <idno type="STC">Wing W618</idno>
+            <idno type="STC">ESTC R236681</idno>
+            <idno type="EEBO-CITATION">99830990</idno>
+            <idno type="PROQUEST">99830990</idno>
+            <idno type="VID">35452</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67421)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35452)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2085:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rome for good news, or, Good news from Rome in a dialogue between seminary priest, and a supposed Protestant, at large. An exhortation to bishops. Whereunto is also annexed a discourse between a poor man, and his wife.</title>
+                  <author>Wallis, Ralph, d. 1669.</author>
+               </titleStmt>
+               <extent>[6], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Ralph Wallis.</note>
+                  <note>Date of publication conjectured by Wing.</note>
+                  <note>Partly in verse.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35452:1" rendition="simple:additions"/>
+            <p>Rome for good News, OR, Good News from ROME: In a Dialogue between a Seminary Prieſt, and a Suppoſed Prote<g ref="char:EOLhyphen"/>ſtant, at large.</p>
+            <p>
+               <hi>An Exhortation to Biſhops.</hi>
+            </p>
+            <p>WHEREUNTO Is alſo annexed a Diſcourſe between a poor Man, and his Wife.</p>
+            <p>
+               <hi>London,</hi> Printed for the Author.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:35452:2" rendition="simple:additions"/>
+            <pb facs="tcp:35452:2"/>
+            <head>THE <hi>EPISTLE DEDICATORY.</hi>
+            </head>
+            <p>I Hope I may without craving pardon for my pre<g ref="char:EOLhyphen"/>ſumption commend a few lines unto you: Its the manner of thoſe that write Books to Dedicate them to ſuch perſons as either from whom they have recei<g ref="char:EOLhyphen"/>ved Favours, or Secondly, live at preſent in the ſenſe and enjoyment of Favours received, or thirdly expect Favours for the future. There's a concurrence of all theſe in your Self, for firſt you beſtowed your ſelf upon me, which as <hi>Solomon</hi> ſpeaking of a good wife, (ſaith) <hi>She is a Price far above Rubies:</hi> The Favours received among others were theſe, firſt you ſupported your ſelf and three Children by the Milk of your own Breaſts, when I was in reſtraint, Secondly when I have been ſurrounded and diſtreſſed with a Regiment of how-ſhall-I-does and what ſhall-I-does, I have found en<g ref="char:EOLhyphen"/>tertainment at your hands, eſpecially by thoſe two In<g ref="char:EOLhyphen"/>mates of yours that cohabit with you, thoſe Ladies of Honour, I mean the Lady <hi>Peace</hi> and the Lady <hi>Pati<g ref="char:EOLhyphen"/>ence.</hi> Thirdly, A Traveller told me that he was in a place called <hi>Canida</hi> ſome part of the Weſt <hi>Indies</hi> where the Beares all the Winter when the ground was frozen and hard did lye in their Dens, and were pre<g ref="char:EOLhyphen"/>ſerved alive only by ſucking, and l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cking of their Paws a very ſtrange Providence: My ſelf and four children have had a great part of our ſupport this hard time,
+<pb facs="tcp:35452:3"/> by the licking of your fingers, I mean by the labours and endeavours of your hands and fingers. Fourthly, When I have been without imployment, and had the offer of ſeverall Inns, which we might have kept; you would by no means hearken to that, telling me that there were ſeveral temptations attended that Cal<g ref="char:EOLhyphen"/>ling, with which I might be overtaken; beſides, that I was an ancient Man, your ſelf a young Woman, and that you had nothing but your credit to carry you through the world, which might be impeached by that means, and therefore I muſt forbear that; next, whereas I had many ſmall Calls to the Pulpit, ſome of them not exceeding eight pound <hi>per annum,</hi> ſome 26 <hi>l.</hi> nay 30 <hi>l. per annum,</hi> with my dyet, and the uſe of a Study of Books, where I might have been furni<g ref="char:EOLhyphen"/>ſhed with good ſtore of Ware to have carried to the Shop, and much ado I had to keep my ſelf out of the Pulpit, although it were no hard matter for me to ſtand Centinel two hours in a week in a Pulpit to ſay Ser<g ref="char:EOLhyphen"/>mons with as much eaſe as many do: your anſwer hath been; Husband, I might have been more happy in the world than to have had you, yet upon condition you will neither ſell Ale nor Preach, I will be contented with my condition, although it ſhould come to be but bread and water, and thus you laid me neck and heels together, and were inſtrumental to keep me both from <hi>Pot</hi> and <hi>Pulpit,</hi> which are the two laſt ſhifts many men undertake. I have one thing more to give you thanks for, you have born and brought me forth four Chil<g ref="char:EOLhyphen"/>dren in my latter dayes, the youngeſt wherof, al<g ref="char:EOLhyphen"/>though as yet not a quarter old, I would be loath to leave for the King of <hi>Spains</hi> Golden Mines at <hi>Perein</hi> or at <hi>Potoſey;</hi> and what I ſhall expect for the future, is,
+<pb facs="tcp:35452:3"/> that you will be as good to me as formerly you have been, I deſire you not to be better, its impoſſible you ſhould; Nevertheleſſe, I ſhall blaze your infirmities to the world, and yet without beſmutting your Repu<g ref="char:EOLhyphen"/>tation, you can neither chide nor ſcold; and when you have had provocations thereunto, I have deman<g ref="char:EOLhyphen"/>ded of you how you could be ſilent; your anſwer hath been, I want wit, there are ſome men in the world could wiſh their wives were as witleſſe as your ſelf. Upon theſe Conſiderations, in token of my thankful<g ref="char:EOLhyphen"/>neſſe, I have commended this Paper unto you, it is an old piece which I met withall more than fourty years ſince, and learned by heart, and kept it in my head ſo long, and loſt very little of it, having not ſeen the Copy in all that time, I was reſolved at laſt to lay it ſomewhere elſe, and now bequeath it to you. You will ſay in reading of this little <hi>Paper,</hi> that the ſame things that were acted by the <hi>Prelates</hi> are acted with us at this day, and therefore may conclude that thoſe <hi>Prelates</hi> are ſtill alive, or elſe that there is a new re<g ref="char:EOLhyphen"/>ſurrection of them. No wife, not ſo; but you will find that the ſinners that lived in the firſt age of the world, have thoſe that reſemble them ſtill in their practiſes. As it was in the dayes of <hi>Noah,</hi> &amp;c. As <hi>Jannes</hi> and <hi>Jambres</hi> withſtood <hi>Moſes,</hi> ſo do theſe alſo re<g ref="char:EOLhyphen"/>ſiſt the truth. And as the Child of the Bond-woman perſecutes the Son of the free, even ſo 'tis now, and ſo 'tis now: and this by reaſon of that enmity that is between the Seed of the Woman and the Serpent: The wind bloweth where it liſteth; by the wind Wife is meant you know the ſpirit. And thoſe <hi>Prelates</hi> are of thoſe Angels, or very much like them as ever they can look mentioned in the <hi>Revelations,</hi> that ſtand at
+<pb facs="tcp:35452:4"/> the four corners of the earth, holding the winds that they blow not, and that none may buy or ſell but they that receive the mark either in their hand or in their fore-head. I ſhall conclude my Epiſtle with the Marriners ſpeech who having been at Sea, and having met with a proſperous Voyage when he comes home, telling of it ſaith thus, <hi>All this we did with a little Ship, and a great God:</hi> I ſhall leave you and yours but a little of the world more than to each Child <hi>A<g ref="char:EOLhyphen"/>dams</hi> Combe, I mean their fingers, which with Gods Bleſſing may prove a good Portion, yet as I hope ſhall leave both you and them in the everlaſting Armes of a great God, to whoſe Providence and Protection I commend you, which is the deſire of him who is</p>
+            <closer>
+               <signed>Your ever effectionate Husband, Conſilio Juvans.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Reader,</hi> If thou ſee the Paper I have Commended unto my Wife, I hope thou wilt not be offended at it; Cannot a poor Man and his Wife talk together by the fire ſide but the world muſt be troubled at it? There are many Thouſand Families talk after this rate, <hi>Hanc veniam petamuſque damuſque,</hi> what leave I take, I'le afford thee to do as much, if thou art angry, who can help it; Farewell.</p>
+            </postscript>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35452:4"/>
+            <head>
+               <hi>Rome for Good Newes,</hi> OR, <hi>Good Newes from Rome.</hi>
+            </head>
+            <sp>
+               <speaker>Prote<g ref="char:EOLhyphen"/>ſtant.</speaker>
+               <l>WHat News Sr. <hi>Shaveling,</hi> hear you none,</l>
+               <l>You ſhould know ſome I think,</l>
+               <l>For many times if any ſtir,</l>
+               <l>You have it in the Clink.</l>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <l>Yea ſome, there is one <hi>Hilderſham</hi>
+               </l>
+               <l>For that he thought not meet</l>
+               <l>To take the Inquiſition Oath</l>
+               <l>Was caſt into the <hi>Fleet.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <l>Me thinks I ſhould well know the man</l>
+               <l>That's taken in the Lurch.</l>
+               <l>Is it not one doth what he can</l>
+               <l>To oppoſe the Romiſh Church?</l>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <l>Its he, but wote you, one that then</l>
+               <l>In high Commiſſion ſate,</l>
+               <l>In learned ſort in open Court</l>
+               <l>His fault did aggravate.</l>
+               <l>You'ld feign know how, I tell it now,</l>
+               <l>A number ſtanding by.</l>
+               <l>In ſober wiſe he doth adviſe,</l>
+               <l>And tells him this plainly.</l>
+               <l>That <hi>Banbury</hi> men were ſtiff at firſt,</l>
+               <l>Oh they would nothing do,</l>
+               <l>But now they would doe beſt and worſt,</l>
+               <l>And ſomething over too.</l>
+               <pb n="2" facs="tcp:35452:5"/>
+               <l> And you ſaid he will peeviſh be,</l>
+               <l>You'le in New Priſon lie,</l>
+               <l>And there perhaps ere long like <hi>Bates,</hi>
+               </l>
+               <l>A Malefactor die.</l>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <l>What ſaid he thus, then had he quite</l>
+               <l>The poor mans Courage daſht,</l>
+               <l>But that he knew it was not true</l>
+               <l>His Lordſhip over-laſht.</l>
+               <l>For thus to ſpeak of worthy <hi>Bates,</hi>
+               </l>
+               <l>How he was not afraid,</l>
+               <l>Inſtead of a Malefactor he,</l>
+               <l>A Martyr he ſhould have ſaid.</l>
+               <l>What though we are not ſo preciſe,</l>
+               <l>And little Scripture can,</l>
+               <l>We are perſwaded he lived well,</l>
+               <l>And died a faithful man.</l>
+               <l>Will <hi>Turner</hi> think you turn his Coate,</l>
+               <l>And ſay he cares not, what</l>
+               <l>Will <hi>Sharp</hi> of <hi>Banbury</hi> change his note,</l>
+               <l>And now go fing a flat.</l>
+               <l>No <hi>Turner</hi> ſtood and heard his tale,</l>
+               <l>And was aſham'd to hear</l>
+               <l>The Biſhop vent ſuch foul untruths,</l>
+               <l>Without all ſhame or fear.</l>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <l>Well, true or falſe it matters not.</l>
+               <l>You ſee here's juſt occaſion,</l>
+               <l>Why we reſolve their Lordſhips have</l>
+               <l>A Catholique perſwaſion.</l>
+               <l>And truly they deſerve our Church,</l>
+               <l>Should yield them great applauſe,</l>
+               <l>In ſhew they much oppoſe indeed,</l>
+               <l>They much maintaine our cauſe.</l>
+               <l>What though they rate us now and then,</l>
+               <l>To give the State content,</l>
+               <l>And calls us Powder-plotting men,</l>
+               <l>That ſo we may be ſhent.</l>
+               <l>Though you and they do term us oft</l>
+               <l>The common adverſary,</l>
+               <pb n="3" facs="tcp:35452:5"/>
+               <l> Yet they and we do well agree,</l>
+               <l>We very little vary.</l>
+               <l>And though in outward policy,</l>
+               <l>They needs muſt make fair weather,</l>
+               <l>They know full well their cauſe and ours</l>
+               <l>Will ſtand or fall together.</l>
+               <l>With Puritans and Preachers all,</l>
+               <l>With moſt our Kingdom ſhake,</l>
+               <l>Accounting thoſe, our common foes,</l>
+               <l>They preſent order take.</l>
+               <l>Of ſuch Preciſians what they can,</l>
+               <l>The Churches they diſarme,</l>
+               <l>And leave in Pulpit ſcarſe a man,</l>
+               <l>Will do us any harme.</l>
+            </sp>
+            <sp>
+               <speaker>Pro.</speaker>
+               <l>Yes ſundry men ſoundly to tax</l>
+               <l>Your foul Idolatry,</l>
+               <l>Your Maſſe your Vows your Pilgrimage,</l>
+               <l>And Popes Supremacy.</l>
+               <l>Your Salt your Spittle, and your Cream,</l>
+               <l>Your kneeling to the Bread,</l>
+               <l>Your Sacrifice your Faſting dayes,</l>
+               <l>And prayers for the Dead.</l>
+               <l>Your calling on departed Saints,</l>
+               <l>Your Purgatory fire,</l>
+               <l>Strange Penance pardons Indulgence,</l>
+               <l>And ſuch like Popiſh mire:</l>
+               <l>Your Cenſing and Baptizing Bells,</l>
+               <l>Your Tapers and your Lights,</l>
+               <l>Your Croſſing holy Water Oyle,</l>
+               <l>And conjuring of Sprits.</l>
+               <l>Your Orders, Altars and perfumes,</l>
+               <l>Your Letany proceſſion,</l>
+               <l>Strange Language, lying Miracles,</l>
+               <l>Auricular confeſſion.</l>
+               <l>Your Church beliefe, your Merits,</l>
+               <l>Works of Supererrogation,</l>
+               <l>Your Cannonizing Traytorus Saints,</l>
+               <l>Your groſs Equivocation.</l>
+               <pb n="4" facs="tcp:35452:6"/>
+               <l> Your Singing Ringing Requiems,</l>
+               <l>Your Monthly minds your Feaſts,</l>
+               <l>Your Legends Bulls babe frighting toys,</l>
+               <l>More baſe then <hi>Skoginggs</hi> jeſts,</l>
+               <l>Your pillar prayers reliques woods,</l>
+               <l>Your Curtſey knocking breaſts,</l>
+               <l>Your falſe Communion kiſſing paxe</l>
+               <l>And keeping it in Cheſts.</l>
+               <l>Your Counſels, Cannons, decretals,</l>
+               <l>Decrees and mens Traditions,</l>
+               <l>Your Jewiſh Churchings and ſuch like,</l>
+               <l>A thouſand ſuperſtitions.</l>
+               <l>Theſe are the Doctrines whereunto</l>
+               <l>Your practiſes do ſuite,</l>
+               <l>All which our Learned Clergy-men,</l>
+               <l>Do labour to confute.</l>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <l>In words 'tis true your Clergy-men</l>
+               <l>Our Doctrines do diſclaime,</l>
+               <l>But who ſees not therein they give</l>
+               <l>Themſelves a privie maime.</l>
+               <l>We ſome time hear and well can bear,</l>
+               <l>You call our Doctrine dotage,</l>
+               <l>Provided though you do not eate,</l>
+               <l>Our meate you ſup our Pottage.</l>
+               <l>What are our Ceremonies good,</l>
+               <l>And are our Doctrines naught,</l>
+               <l>In ſenſe can theſe be practiſed</l>
+               <l>And not the other taught.</l>
+               <l>The bluſters which your Doctours makes,</l>
+               <l>'Tis but a blaſt of breath,</l>
+               <l>There's in it no ſuch danger 'tis,</l>
+               <l>No Dagger but a Sheath.</l>
+               <l>Themſelves muſt ſob and come and Crouch,</l>
+               <l>And cauſe to bow the knee,</l>
+               <l>When as they bid to take and eate,</l>
+               <l>The Bread as well as we.</l>
+               <l>They muſt put on our worthy weeds,</l>
+               <l>Cap, Tippet and Surplus,</l>
+               <pb n="5" facs="tcp:35452:6"/>
+               <l> And do ſuch rites for which, what word,</l>
+               <l>Or Warrant but from us.</l>
+               <l>If any other ſhould alledge</l>
+               <l>Alas he ſhould but feigne,</l>
+               <l>And Coyn them from his own conceit,</l>
+               <l>Or from ſome others brain.</l>
+               <l>What orders have we, you have not,</l>
+               <l>I'le wage an hundred pounds,</l>
+               <l>Our Papacy your Prelacy,</l>
+               <l>Stands at the ſelf ſame grounds.</l>
+               <l>You keep our Faſts and feaſtings days</l>
+               <l>You read our Leiturgy,</l>
+               <l>Our Cannons and your Laws from us,</l>
+               <l>You have your Miniſtry.</l>
+               <l>Your Churchings, Organs and your quire,</l>
+               <l>Your Letany containes,</l>
+               <l>Some worthy points whereof there is,</l>
+               <l>Not one of us complaines.</l>
+               <l>All points wherein we will accord</l>
+               <l>I cannot recken up,</l>
+               <l>On <hi>Fiſhstreet</hi> hill one gives the Bread,</l>
+               <l>But would not give the Cup.</l>
+               <l>One pleads in Pulpit for our faith,</l>
+               <l>Implicit and eare ſhrift,</l>
+               <l>And ſaith none kneelers muſt be damn'd,</l>
+               <l>They can it no way ſhift.</l>
+               <l>A third to prove you kneeling good,</l>
+               <l>Although it came from us,</l>
+               <l>Reads in our Maſs book word for word,</l>
+               <l>And thence concludeth thus.</l>
+               <l>Here's <hi>Surſam Corda</hi> which ſaith he</l>
+               <l>We have from Popiſh write,</l>
+               <l>Our Church as good reteins and which,</l>
+               <l>Of us complains of it.</l>
+               <l>Some yet more cunningly concur,</l>
+               <l>In act and ſhun the name,</l>
+               <l>Like Uſurers when as our work,</l>
+               <l>And worſhip is the ſame.</l>
+               <pb n="6" facs="tcp:35452:7"/>
+               <l> Our Robes muſt be your Ornaments,</l>
+               <l>Or for diſtinction ſake,</l>
+               <l>You muſt have honeſt burial,</l>
+               <l>And therefore prayers make.</l>
+               <l>Our Churchings are your giving thanks,</l>
+               <l>Strange Language? Learning deep,</l>
+               <l>Inſtead of our proceſſion you,</l>
+               <l>Perambulations keep.</l>
+               <l>Our kneeling is your comlineſs,</l>
+               <l>Our Croſs in babes face,</l>
+               <l>Is now become your Chriſtian badge,</l>
+               <l>And no ſmall ſign of grace.</l>
+               <l>Our Images are portraitures,</l>
+               <l>Of men that do adorn,</l>
+               <l>Your Churches if you pull them down,</l>
+               <l>It hardly will be born.</l>
+               <l>If <hi>Banbury</hi> men will do there geere</l>
+               <l>I tro they have their doom,</l>
+               <l>Their orders are well ſtuffe I hear,</l>
+               <l>With welcome news to <hi>Rome.</hi>
+               </l>
+               <l>Ye welcome news I hope ere this,</l>
+               <l>'Tis over all the Town,</l>
+               <l>Your Church men have no thority,</l>
+               <l>To thruſt our pictitures down.</l>
+               <l>Your homily ſaith they defile,</l>
+               <l>wherein it ſeems to lye,</l>
+               <l>This order writes another Style,</l>
+               <l>To wit they beautifie.</l>
+               <l>And ſo concludes that who ſo doth,</l>
+               <l>them moliſh or deface,</l>
+               <l>Is juſtly cenſured as one,</l>
+               <l>That doth profane the place.</l>
+               <l>What practice we? that you do not,</l>
+               <l>Have we Stews, you have ſtage,</l>
+               <l>Blaſpheme we? you have Lotery,</l>
+               <l>Maintain'd with wrong and rage,</l>
+               <l>Pardon we, faults you let forth fees,</l>
+               <l>For filthineſſe to farme,</l>
+               <pb n="7" facs="tcp:35452:7"/>
+               <l> The ſtrumpet poor muſt penance pay,</l>
+               <l>The rich hath no ſuch harm.</l>
+               <l>Sometime indeed for very need,</l>
+               <l>The ſilly ſtand in ſheet,</l>
+               <l>When with bare breaſt and head bare dreſt</l>
+               <l>The ſilken walk in ſtreet.</l>
+               <l>In brief what ere may be the fruit</l>
+               <l>Of all your tollerations,</l>
+               <l>Our penance pardons indulgence,</l>
+               <l>And other diſpenſations.</l>
+               <l>The ſame is of your puniſhing</l>
+               <l>Of ſin by ſheet or purſe,</l>
+               <l>Your fees for abſolution,</l>
+               <l>Your Canons Court and Curſe.</l>
+               <l>Nay further name a ſin who can</l>
+               <l>That any doth commit,</l>
+               <l>But your conformity will breed,</l>
+               <l>Or feed and foſter it.</l>
+               <l>Ah ha Sir <hi>Large,</hi> how like you this?</l>
+               <l>Did he not ſay the troth,</l>
+               <l>That ſaid you would ſoon eat our meat,</l>
+               <l>That thus fell to our broth.</l>
+               <l>Where are the thouſand men become,</l>
+               <l>That ſought for reformation,</l>
+            </sp>
+            <sp>
+               <speaker>Doct. Ravis.</speaker>
+               <l>A rare bird with his heady book,</l>
+               <l>Soon wrought their deſolation.</l>
+               <l>Ho! they'ld have ſuperſtition down,</l>
+               <l>Dumb Miniſters ſuppreſt,</l>
+               <l>They would have no non reſidente,</l>
+               <l>Each paſtor flock muſt feed,</l>
+               <l>And yet have but due recompence,</l>
+               <l>Here were a world indeed.</l>
+               <l>They'l'd no commendam's have, they'l'd no</l>
+               <l>Pluralities permit,</l>
+               <l>They ſhout at Rovers, yet how right</l>
+               <l>Theſe <hi>Oxford</hi> heads they hit.</l>
+               <l>They would have mended many things</l>
+               <l>In Common-prayer-book.</l>
+               <pb n="8" facs="tcp:35452:8"/>
+               <l> In fine they would have Diſcipline,</l>
+               <l>Which none of us can brook.</l>
+               <l>'Tis Diſcipline, I ſay't again,</l>
+               <l>That we cannot abide,</l>
+               <l>And have therein all formal men</l>
+               <l>And Prelates on our ſide.</l>
+               <l>And newters our Religion like,</l>
+               <l>And civil men no doubt,</l>
+               <l>Yet ſhould it come to parting wealth,</l>
+               <l>It's fear'd they would ſtand out.</l>
+               <l>They would join cloſe for Houſe and State,</l>
+               <l>For Countrey, Children, Wives,</l>
+               <l>It's thought they would not part with theſe,</l>
+               <l>But jointly venture lives.</l>
+               <l>'Tis this, heark in your ear a word,</l>
+               <l>That puts us to our pauſe,</l>
+               <l>That we try not by dint of Sword</l>
+               <l>the goodneſs of our-cauſe.</l>
+            </sp>
+            <sp>
+               <speaker>Proteſ.</speaker>
+               <l>Avaunt you peeviſh plotting Prieſt,</l>
+               <l>You Jaylor keep him ſure,</l>
+               <l>And hear him longer they that liſt,</l>
+               <l>I will it not endure.</l>
+               <l>See how he hath the bloody minds</l>
+               <l>Of Popiſh crew diſcry'd,</l>
+               <l>More meet their cauſe by Princes Lawes</l>
+               <l>At <hi>Tyburn</hi> ſhould be try'd.</l>
+               <l>And are our Prelates Popiſh then,</l>
+               <l>I thought they had been wiſe,</l>
+               <l>I took them for good Proteſtants,</l>
+               <l>Though none of them preciſe.</l>
+               <l>Oft have I heard a ſpeech, it is</l>
+               <l>No leſs a juſt complaint,</l>
+               <l>Of Prieſts and Papiſts liberty,</l>
+               <l>And <hi>Puritans</hi> reſtraint;</l>
+               <l>I mean ſuch as thoſe Imps do tearm,</l>
+               <l>That means of grace withſtand,</l>
+               <l>And under that pretence moleſt</l>
+               <l>The quiet of the Land:</l>
+               <pb n="9" facs="tcp:35452:8"/>
+               <l> This Practiſer diſſembles not,</l>
+               <l>Whom Papiſts mean to ſtrike,</l>
+               <l>He tells us plainly whom the Pope</l>
+               <l>And Prelates love alike?</l>
+               <l>He brings to mind an adage old,</l>
+               <l>Which once I ſaw in verſe,</l>
+               <l>It's not ſo new or old as true,</l>
+               <l>I will it here rehearſe;</l>
+               <l>Lord Biſhops make dumb Miniſters,</l>
+               <l>Whence ignorance doth ſpring,</l>
+               <l>Hence Popery, thence Treachery,</l>
+               <l>'Gainſt Countrey, State and King.</l>
+               <l>Why ſtay I thus, and preſently</l>
+               <l>Betake me not to Court,</l>
+               <l>And in the ears of Prince and Peers</l>
+               <l>This Conference report.</l>
+               <l>Is Princes life ſo little worth,</l>
+               <l>Is Countreys love ſo cold,</l>
+               <l>Shall Wives and Children be to Sword,</l>
+               <l>As ſheep to ſlaughter ſold;</l>
+               <l>Much better true Church Rule were ſought,</l>
+               <l>That thoſe things might be ſtaid,</l>
+               <l>Then Popery or Prelacy,</l>
+               <l>That favours it endur'd;</l>
+               <l>We ſhall be counted Puritans,</l>
+               <l>Too ſtrict men ſcrepulous,</l>
+               <l>Better we wrongfully ſo tearm'd,</l>
+               <l>Then juſtly treacherous.</l>
+               <l>Who ever heard that ſuch as ſtand</l>
+               <l>For Chriſts true Diſcipline,</l>
+               <l>In Popiſh Plot had head or hand</l>
+               <l>In treacherous deſign;</l>
+               <l>Intreat we then His Majeſty,</l>
+               <l>The Prelates may reſtore</l>
+               <l>To the Church her ancient Pariſh Right,</l>
+               <l>Uſurping it no more;</l>
+               <l>Its this you ſee would daunt our foes,</l>
+               <l>Our Friends would gratifie,</l>
+               <pb n="10" facs="tcp:35452:9"/>
+               <l> Our State ſecure judgments remove,</l>
+               <l>And bleſſing multibly;</l>
+               <l>But if we walking as before,</l>
+               <l>Chriſts Diſcipline withſtand,</l>
+               <l>Some fearfull Plague and judgement ſure</l>
+               <l>Will overtake the Land;</l>
+               <l>The Lord hath ſent his meſſengers,</l>
+               <l>But we have them diſgrac'd,</l>
+               <l>His Prophets mockt, his Miniſters</l>
+               <l>Suſpended and dis'placed;</l>
+               <l>Some are diſperſt, others deſpis'd,</l>
+               <l>In Priſon ſome remain,</l>
+               <l>Some ended have their dayes in bands,</l>
+               <l>Whoſe blood doth yet Complain;</l>
+               <l>Their Wives and Children here and there</l>
+               <l>Expos'd to miſery,</l>
+               <l>No marvel if ere long we hear,</l>
+               <l>There's now no remedy;</l>
+               <l>But let's have theſe reſtor'd,</l>
+               <l>Let no dumb Miniſters be made,</l>
+               <l>Let ſuch as have crept in, return</l>
+               <l>Unto their former Trade;</l>
+               <l>Let learned <hi>Hilderſham</hi> go forth,</l>
+               <l>Who knows him, knows 'twere meet</l>
+               <l>He Preaching were, not Priſoner</l>
+               <l>In Kings-bench or the <hi>Fleet;</hi>
+               </l>
+               <l>Let other more be ſet at large,</l>
+               <l>Let <hi>Aſhby</hi> men be gone,</l>
+               <l>Let <hi>Leiceſter</hi> men have their diſcharge.</l>
+               <l>Let <hi>Banbury</hi> men alone;</l>
+               <l>Down with that curſed Office-Oath,</l>
+               <l>Let Ceremonies ceaſe,</l>
+               <l>Unjuſt ſubſcription, ſcourge of truth,</l>
+               <l>And bane of Churches Peace;</l>
+               <l>The things their Patrons count but toyes,</l>
+               <l>Lets baniſh hence with ſpeed,</l>
+               <l>Let learned men, not formal boyes,</l>
+               <l>Be ſet the Flock to feed.</l>
+               <pb n="11" facs="tcp:35452:9"/>
+               <l> In brief, let's all ſubmit to Chriſt</l>
+               <l>Our Prophet, Prieſt and King,</l>
+               <l>At's this t'our Countrey, State and ſelves,</l>
+               <l>In the end will ſafety bring;</l>
+               <l>But as for thoſe that be his foes;</l>
+               <l>And will not have him raign,</l>
+               <l>In wofull plight into his fight,</l>
+               <l>They ſhall be brought and ſlain.</l>
+            </sp>
+            <div type="part">
+               <head>An Exhortation to Biſhops.</head>
+               <l>Come down ye Biſhops, fear a fall,</l>
+               <l>Your Kingdom 'gins to ſhake,</l>
+               <l>The hand is writing on the wall,</l>
+               <l>Which makes your knees to quake;</l>
+               <l>Your Buildings like a tottering wall,</l>
+               <l>The ground-works laid in ſand,</l>
+               <l>Come down it will take <hi>Babels</hi> fall,</l>
+               <l>Sure long it cannot ſtand;</l>
+               <l>Your Language is confounded ſure,</l>
+               <l>Ye wote not what to ſay,</l>
+               <l>And yet to build up <hi>Babels</hi> Tower,</l>
+               <l>You ſtill bring Clods of Clay;</l>
+               <l>But all this while you patch and piece</l>
+               <l>With paltry ſtuff indeed,</l>
+               <l>So that in th'end the mark you'le miſs,</l>
+               <l>When you hope beſt to ſpeed;</l>
+               <l>It is not <hi>Jeroboams</hi> Calves</l>
+               <l>Can ſave you I am ſure,</l>
+               <l>Nor yet your cruel Canon Lawes,</l>
+               <l>Can make your Kingdom dure;</l>
+               <l>You have deprived many a man,</l>
+               <l>For breaking mens Decrees,</l>
+               <l>But for the Lawes of God not one,</l>
+               <l>That doth his living leeſe;</l>
+               <l>How can this ſtand with equity?</l>
+               <l>Reſolve me this I pray,</l>
+               <pb n="12" facs="tcp:35452:10"/>
+               <l> To maintain Guides that cannot ſee,</l>
+               <l>And thruſt the good away,</l>
+               <l>For let him be the vileſt wretch,</l>
+               <l>That lives under the Sun,</l>
+               <l>If he will wear a Surplice,</l>
+               <l>And Croſs the Child with Thumbe,</l>
+               <l>He is countenanced ſtill by you,</l>
+               <l>Much better than the beſt,</l>
+               <l>If this prove not to be too true,</l>
+               <l>Then let me have no reſt.</l>
+               <l>You ſell moſt foul adulteries,</l>
+               <l>For Silver and for Gold,</l>
+               <l>The poor muſt crouch upon his knees,</l>
+               <l>By you to be abſolv'd;</l>
+               <l>And ſometimes you bleſs Jack for Gill,</l>
+               <l>If Silver do appear,</l>
+               <l>If not, then ſometime ſay you will,</l>
+               <l>Poor knave what doſt thou here;</l>
+               <l>You think to have your Heaven here,</l>
+               <l>And after Heaven too,</l>
+               <l>But I can tell you in your ear,</l>
+               <l>That will be much adoe;</l>
+               <l>For you be grown ſo monſtrous great,</l>
+               <l>Even now a dayes of late,</l>
+               <l>That it will go hard for you to get</l>
+               <l>In at the Narrow Gate;</l>
+               <l>Wherefore me thinks 'twere beſt,</l>
+               <l>If you could ſo agree,</l>
+               <l>To let your hearts have now no reſt,</l>
+               <l>Till you unladen be</l>
+               <l>Of all this Pomp and glorious train,</l>
+               <l>Which cauſed God to frown,</l>
+               <l>Which ſin of yours he doth ſo hate,</l>
+               <l>That ſure you muſt come down;</l>
+               <l>For ſure the Word of God is</l>
+               <l>True, and do it not forget,</l>
+               <l>He will pluck up, I ſay to you,</l>
+               <l>Thoſe plants he never ſet,</l>
+               <pb n="13" facs="tcp:35452:10"/>
+               <p> But prethee Husband, ſeeing the ſeminary Prieſt tels the <note place="margin">
+                     <hi>Sabellicus Platina. Sabellicus Platina. Exorcizo te Creatu<g ref="char:EOLhyphen"/>ra ſalis &amp; aquae per Deum vi<g ref="char:EOLhyphen"/>vum &amp; Sanctum,</hi> &amp;c.</note> Proteſtant, that we had theſe things from them, how may it appear?</p>
+               <p>Wife, Hiſtory reports it, <hi>Pius Primus</hi> brought the conjured font into the Roman Church, <hi>Anno</hi> 547. in a moſt fearful man<g ref="char:EOLhyphen"/>ner, as I read in the old Church Rubrick.</p>
+               <p>Pope <hi>Higanus</hi> brought in Godfathers and Godmothers in the year 143.</p>
+               <p>Pope <hi>Adrian</hi> brought in the white linnen Surplice in the year 769.</p>
+               <p>Pope <hi>Zacharias</hi> brought in Prieſts Garments, Copes, and Veſt<g ref="char:EOLhyphen"/>ments, horned Caps, and that none but hallowed Garments ſhould be uſed.</p>
+               <p>Pope <hi>Teleſphorus</hi> ordained Lent to be kept ſeven weeks be<g ref="char:EOLhyphen"/>fore Eaſter.</p>
+               <p>Pope <hi>Higinus</hi> hallowed Churches or Temples.</p>
+               <p>Pope <hi>Caliſtus</hi> Church-yards.</p>
+               <p>Pope <hi>Honorius</hi> in the year 1214. brought in kneeling at the Sacrament.</p>
+               <p>Pope <hi>Nicholas</hi> forbid Marriage in Lent, and other ſet times.</p>
+               <p>Pope <hi>Caliſtus</hi> the Imbring daies for Faſts four times in the year.</p>
+               <p>Pope <hi>Silveſter</hi> the firſt added Wedneſdaies, Fridaies, and Saturdaies weekly.</p>
+               <p>Pope <hi>Innocent</hi> put unto the former the Apoſtles Eves; The Saints and Angels were beholding to thoſe Reverend Fathers, for hallowing their daies.</p>
+               <p>For generally all the Saints and Angels found ſuch favour with Pope <hi>Boniface,</hi> that they had not only a Catholick holy day called <hi>Alhallows,</hi> but a famous Temple in <hi>Rome,</hi> once dedica<g ref="char:EOLhyphen"/>ted to all the Devils called <hi>Pantheon,</hi> was turned by this Holy Father into the name of <hi>Maria Rotunda,</hi> and conſecrated to the B. Virgine, and all Martyrs. <hi>Boniface</hi> the eighth ſhewed like honour to the four Evangeliſts. Pope <hi>Sabinian</hi> ordained bells to call the people together to Divine Service: vertue attributed to bells: firſt, to preſerve the Fruits of the Earth; ſecondly, to drive away the evil will of our enemies; thirdly, to expel ſtorms, Tempeſts, Thundrings, Lightnings; fourthly, to drive away
+<pb n="14" facs="tcp:35452:11"/> Spirits and Devils; and therefore it is that the Cuſtom is conti<g ref="char:EOLhyphen"/>nued in many places, as yet to ring as they call it the paſſing bell, when a man or woman is dying. Pope <hi>Felix</hi> the third made holy the day of the Arch-angel <hi>Michael.</hi> Pope <hi>Damaſus</hi> as Writers ſay, added to the Pſalms, <hi>Glory be to the Father,</hi> &amp;c. and to be ſung in turn, as the Church of <hi>England</hi> yet uſeth. Pope <hi>Witalianus</hi> brought in the Organs to make up the Muſick, in the year 653. Pope <hi>Gelaſius</hi> brought in prick-ſong. Pope <hi>Gregory</hi> plain ſong. Pope <hi>Vitalianus</hi> deſcant.</p>
+               <p>Pope <hi>Clement</hi> the firſt brought in Confirmation of Children by Biſhops, <hi>Anno</hi> 310. <hi>Melciades</hi> ſucceeding him, ſaid, it was a more worthy Sacrament than the Sacrament of Baptiſm. Pope <hi>Anaſiaſius</hi> brought in (as VVriters ſay) ſtanding at the Goſpel, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the year 404. Pope <hi>Damaſus</hi> enjoyned <hi>Hierome</hi> to make an Order of Service for Churches, and how many Pſalmes and prayers ſhould be ſaid on every day, <hi>&amp;c.</hi> which being done, the Pope commanded all Churches ſhould uſe that Order, and no other. And a much like exploit was performed by the Arch<g ref="char:EOLhyphen"/>biſhop of <hi>Canterbury,</hi> and his brethren, as Maſter <hi>Fox</hi> reports in King <hi>Edwards</hi> daies: and coninues ſtill by the Convocation-houſe. I ſhall omit ſome things, one Pope put the <hi>Pater noster</hi> into the Maſſe, and commanded it to be ſung. Pope <hi>Marcus</hi> would have the <hi>Nicene</hi> to be ſung after the Goſpell. Pope <hi>Ana<g ref="char:EOLhyphen"/>cletus</hi> would have the prieſt and the people to ſalute one ano<g ref="char:EOLhyphen"/>ther in Service time; and therefore appointed the one to ſay, <hi>The Lord be with you,</hi> and the other to ſay, <hi>And with thy Spi<g ref="char:EOLhyphen"/>rit.</hi> Pope <hi>Sergius</hi> put in at the Sacrament, <hi>O Lamb of God that takeſt away the ſins of the World, have mercy upon us.</hi> Pope <hi>Sy<g ref="char:EOLhyphen"/>machus</hi> added the Hymne, <hi>Glory be to God on high.</hi> The other Popes brought in their parts and patched together the Lethany or Lithurgy, out of which the Service-b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ok is taken. Pope <hi>Leo</hi> as ſome affirm brought in Infant-baptiſm about 300. years after Chriſt.</p>
+               <p>Pope <hi>Paſe halus</hi> decreed Tythes in the year 827. Pope <hi>
+                     <g ref="char:V">Ʋ</g>rba<g ref="char:EOLhyphen"/>nus</hi> ordained <hi>Canterbury</hi> to be the chief patriarchal Seat. Many things of this nature I ſhall omit at preſent, as alſo the names of the ſeveral Authors who writ of them; but I hope Wife you will believe me.</p>
+               <pb n="15" facs="tcp:35452:11"/>
+               <p> Husband, if theſe things came from <hi>Rome,</hi> tell me what the Reverend Dean and Doctor <hi>W.</hi> meant, when he ſaid, <hi>We bleſs thee Lord for the ſolemnities of the Church.</hi>
+               </p>
+               <p>Truly Wife, as far as I conceive the Formalities and Cere<g ref="char:EOLhyphen"/>monies of the Church now in uſe: but I can tell you what an old Non conformiſt would expreſs in his prayer, <hi>Lord purge thy Church of all the Remnants &amp; Reliques of Popery, Idolatry &amp; Su<g ref="char:EOLhyphen"/>perſtition, which do but adulterate thy worſhip, &amp; cauſe the ſacri<g ref="char:EOLhyphen"/>fice and oblation to be abominable in thy ſight, and take away thoſe things which do but contaminate the Conſciences of thy people, &amp; are but as botches and blains in the face of thy Spouſe:</hi> This man was a ſufferer, neceſſitated ſometimes to leave the Nation, ne<g ref="char:EOLhyphen"/>ver changing his Judgement. But this Doctor being ſometimes a Clark in the Convocation-houſe, made a handſome well<g ref="char:EOLhyphen"/>pen'd Speech againſt ſome formalities, and was accounted a young Puritan, and was called to the Bar, and to his knees too, but had a Friend. But now his narrow ſilken throat is grown wider, he can ſup Ceremonies, yea and ſwallow a fat Parſonage, a Prebendſhip, and a Deanry, and never keck at it. I have ſeen him in his formalities, that if he had worn bells on his Legs, you would rather have taken him for a Maide-marrian in a Mor<g ref="char:EOLhyphen"/>rice dance than a Miniſter, and with us much contempt caſt up<g ref="char:EOLhyphen"/>on him, as ever I ſaw upon a man in a Pulpit. indeed, he ſaith, he doth it to come as near <hi>Rome</hi> as he can, under pretence of drawing them to his religion, for that end he hath now put him<g ref="char:EOLhyphen"/>ſelf into the Suburbs, and it is ſuppoſed by many that he wil be as eaſily perſwaded to come to live in the City, as he ſhal per<g ref="char:EOLhyphen"/>ſwade <note place="margin">What that is I know not, he puts ſo many ſimples in the conſe<g ref="char:EOLhyphen"/>ction.</note> the Romaniſts to come to live in the Suburbs. One thing I took from the mouth of an honeſt Countrey man of his, which was the Doctors Speech thus, <hi>That it was a leſſer ſin for a man to kil his father, than for a man in regard of the ceremonies, to refrain coming to Divine ſervice eſtabliſhed in the Church of England;</hi> the one was the killing of a particular perſon, the other made a breach in the myſtical body of Chriſt. but this I ſhall only ſay, O Doctor, Doctor, <hi>quae te dementia cepit,</hi> what madneſs hath poſſeſt thee, remember from whence thou art fallen.</p>
+               <pb n="16" facs="tcp:35452:12"/>
+               <p> Husband, I would be ſatisfied in one thing concerning this Divine ſervice, how it came to be impoſed, how came it up at firſt.</p>
+               <p>The firſt that ever I read of was Pope <hi>Damaſus,</hi> who enjoined <hi>Hierom</hi> to mak an Order or ſervice for Churches, and appoint <note place="margin">Guliel Durandus.</note> what prayers ſhould be ſaid on every day, <hi>&amp;c.</hi> and how many <hi>Pſalmes,</hi> &amp;c. which being done, the Pope commanded all Churches ſhould uſe that ſervice, and none other; and the like was performed by the Archbiſhop and his brethren in King <hi>Edwards</hi> dayes, as Mr. <hi>Fox</hi> reports, and ſtil continued by the Convocation-houſe as at this day.</p>
+               <p>
+                  <hi>Object.</hi> But did not the Lord give forms of bleſſings, prayers, and <hi>Pſalms,</hi> &amp;c. therefore, why may not the prelates do the like?</p>
+               <p>I tel thee what I ſhal ſay, Doſt think <hi>Ieroboham</hi> had ſo ſlender a reaſon for his golden Calves? God gave a Law by <hi>Moſes;</hi> therefore there may a Law be given by the Biſhops: the Apo<g ref="char:EOLhyphen"/>ſtles wrote a New Teſtament, or Goſpel; therefore the Convo<g ref="char:EOLhyphen"/>cation-houſe may write a Teſtament or Gospel, if the prophets practiſe will bear them out in the one, I ſee no reaſon why it ſhould not bear them out in the other, and let them if they can ſhew where any of the Apoſtles made any forms of prayer, and impoſed on other Churches; neither did I ever hear any man ſtand for Common-prayer, that had the ſpirit of prayer.</p>
+               <p>'Twere other paſſages I heard you ſpeak of the Doctors.</p>
+               <p>I did ſo, the one was, we thank the Lord for, the reforma<g ref="char:EOLhyphen"/>tion, he might rather have called it a regradation; for as the Sun went back ten degrees in the dayes of <hi>Ezekiah</hi> by the Sun-dial of <hi>Ahaz,</hi> ſo we in <hi>England</hi> according to an outward appearance <note place="margin">Faſcicu. temp.</note> are gone back ten degrees by the Sun-ſhine of the Goſpel of Chriſt. And whereas you told as that on Fryday next you ſhal have the Feaſt of St. <hi>Michael</hi> the Archangel, which day is to be kept holy by the appointment of the Church of God; I ſuppoſe he means <hi>Rome</hi> to be the Church of God, becauſe pope <hi>Felix</hi> the third ordained and appointed that holy day.</p>
+               <p>What meant our Reverend Dioceſſan, when after one year of his being our Dioceſſan, and had not preacht two Sermons, he told us they were our ſpiritual fathers; <hi>Paul</hi> ſaith, that al<g ref="char:EOLhyphen"/>though
+<pb n="17" facs="tcp:35452:12"/> you have many Inſtructors, I have begotten you; in<g ref="char:EOLhyphen"/>deed, if the <hi>Patriarch</hi> had told us how many thouſands of pounds he and the reſt of his brethren of the Cloyſter had got<g ref="char:EOLhyphen"/>ten he had ſaid ſomething; but let him or any of his brethren ſay and ſpeak truth, that ſince I came to this place or City, the Lord hath bleſt my labours; for ſuch a poor Soul came to me, and told me, that the Lord had by my Miniſtry made him to ſee how that he was moſt vile wretched ſinner, and under the wrath of God; which if they can, as I am confident they can<g ref="char:EOLhyphen"/>not, Ile ſubmit and do penance in a White Surplice, which is as baſe as in a White Sheet.</p>
+               <p>In the next place, now Wife we wil talk a word of our own Re<g ref="char:EOLhyphen"/>verend Dean; he ſaith that we muſt worſhip in the Temple, at the Temple, and going from the Temple; and ſpeaking of the ſeveral Gates to Heaven, he told us that Baptiſm was Infants Gate; you need not queſtion the truth of it, ſeeing it appears to be plainly expreſt in the Church Catechiſm. To his Temple worſhip I ſhall ſay nothing, becauſe he is ſuppoſed to be a Mon<g ref="char:EOLhyphen"/>grel <hi>Papist;</hi> but I cannot but admire that Baptiſm ſhould be In<g ref="char:EOLhyphen"/>fants Gate into Heaven, and ſo much the more for that, when they are there they do not ſtay there ſcarce one in an hundred, but out they come tumbling, and by the fruit they bring with them ſpeak evil of that good land: but this I can ſay of him, that he is a great admirer and lover of fiſh on Faſting-dayes, and eats no other fleſh, and there is ſome reaſon for it, <hi>Durandus</hi> renders it; why fiſh is more holy than fleſh, becauſe God curſt the earth, but never curs'd the water.</p>
+               <p>Husband, another of our Doctors cryes out againſt Sacriledge, what's that?</p>
+               <p>He tell thee Wife, as they account it, a robbing of the Church, and ſo by conſequence as they would maintain it, a robbing of God; but they never tell how the Church firſt rob'd the poor Countrey, by telling them that it was a meritorious-work, pro<g ref="char:EOLhyphen"/>miſing them to fetch ſouls out of <hi>Purgatory. Henry</hi> the third was preſſed by his Clergy, and hookt in to grant liberally unto them, and by his <hi>Magna Charta</hi> ſaith thus; <hi>Henry by the grace of God King of England,</hi> &amp;c. <hi>To all Archbiſhops, Biſhops,</hi> &amp;c. <hi>Know ye that to the honour of God, and the ſalvation of my Soul,</hi>
+                  <pb n="18" facs="tcp:35452:13"/> 
+                  <hi>and the Souls of my Progenit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs and Succeſſors, do give and grant,</hi> &amp;c. An eaſie piece of matter to cheat both King and Nobles, as my Author ſaith, when neither of them could write or read. And <hi>Richard Wetherhead</hi> alias <hi>Wetherſhead</hi> Archbiſhop of <hi>Can<g ref="char:EOLhyphen"/>terbury</hi> by a Provincial Conſtitution, it was forbidden to all Phyſitians to adminiſter any Phyſick to a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ick perſon upon pain of excommunication, until the Prieſt had firſt ſhrived him for his ſins; (although his condition was ever ſo deſperate.) The pretence was to phyſick his Soul firſt, but the intent was to get a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ollop out of his eſtate: Surely, he that would not have the hire of an Harlot to be brought into his houſe, will never accept of ſuch lands and go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds thus cheated to be imployed in his ſer<g ref="char:EOLhyphen"/>vice; but moſt ſure it is, that God doth not accept of any thing that he doth; neither requite nor command: But we know theſe fellowes came but to fill their bellies, and if the means were gone, they'le be like Bagg-pipes when the wind is out they tattle no longer.</p>
+               <p>Husband, you know they are accounted but Fanatiques and Schiſmatiques that ſpeak againſt thoſe men or their practiſes, you have been in ſome trouble already, medle not with their Cathedral ſervice and things, which as they ſay are for decency.</p>
+               <p>Wife, for my fathers ſake I ſhall not, becauſe its next my fathers Religion, he being a Roman Catholique; and yet for the poor Jews ſake I am not willing to be ſilent, its a bad requi<g ref="char:EOLhyphen"/>tal for the prayers they put up for us Gentiles, <hi>Cant.</hi> 8. ver. 8. <hi>we have a little ſister, and ſhe hath no breasts; what ſhall we do for our ſister in the day that ſhe ſhall be ſpoken for?</hi> See what a ſtumbling block we caſt before them; we tell the Jew that all the Cere<g ref="char:EOLhyphen"/>monies of the Moſaical Law were abrogated by the coming of Chriſt; he will argue thus, Why may not we uſe thoſe Types and Ceremonies inſtituted by <hi>Moſes</hi> at Gods command, as well as you to make uſe of thoſe Ceremonies inſtituted by ſeveral Popes, which you ſay were Antichriſts Chriſts utter enemy? Ask the Ceremoniaſter or the Ceremonimaſter what he can ſay to that. But as for accounting others Fanatiques, they are the greateſt Fanatiques themſelves, who leaving the ſacred Scrip<g ref="char:EOLhyphen"/>ture, which are the rule of life, doctrine and diſcipline, and ſet up the traditions of men, whereas his Worſhip muſt be as his
+<pb n="19" facs="tcp:35452:13"/> Word is, ſincere <hi>quaſi ſine cera,</hi> without mixture or compoſition of humane invention, and is forbidden by the ſecond Com<g ref="char:EOLhyphen"/>mand, as <hi>William Gloucester</hi> Biſhop, ſaith; And then what can you ſay for your Cathedral ſervice? Wife you know that nei<g ref="char:EOLhyphen"/>ther praiſes nor prayers are accepted with him unleſs they be the fruit of his own ſpirit. Jeſus Chriſt takes the Odours which are the prayers of the Saints, and preſents them to his Father; if not acceptable, they muſt needs be abominable. Do you think that Jeſus Chriſt will take the bawling ſqueling voices of ſinging men and boyes, together with the grunting ſqueking noiſe of the Biſhops Pigs, I mean the Organs, and preſent them with reverence be it ſpoken: he will aſſoon accept of a pair of Bag-pipes, for its all but Wind-Muſick. Neither do I think that the <hi>Boy</hi> who in <hi>Pauls</hi> lately got near unto the Organs with an inſtrument of Horn in his fiſt called a Cats-call, with which he tuned Mew Mow (was much to be blamed) who being ob<g ref="char:EOLhyphen"/>ſerved by ſome, would now and then duck down his head and toot again, I conceive there was no reaſon why they ſhould be angry with him; for they pretended to religious worſhip which the boy did not, therefore leſs ſinful. Secondly, he made ſome as merry as the Organs made others.</p>
+               <p>And whereas they ſay that ſome things are for decency.</p>
+               <p>I'le tell thee Wife, there are a ſort of the female ſex, who are Mercenary, (as I have heard) and they are called <hi>Hackney</hi> Whores, but in ſome Countries are called Curtizans, and they are known by their habits as they walk in the ſtreet; If I ſhould ſee thee in the habit of a Curtizan, be it as decent as may be, it would make my crooked Noſe warp on the other ſide in my old age, and for all thy profeſſion of love to me, take thee but for a Concubine. To ſee that goodly Matron the Church of <hi>England</hi> profeſſing love to the Lord Chriſt, and him to be her Head and Husband, and yet to put on the habit of an old Whore, an old Whore, <hi>an old Whore,</hi> I can account her but for a Concubine at the beſt, and ſhe makes many of her Sons this day almoſt aſha<g ref="char:EOLhyphen"/>med to call her Mother. The Apoſtles care was to preſent the Church a pure Virgin; Sure I am, that thoſe botches in her face are no beauty ſpots: Nay, ſhe is now going to perſecute a viſible Mark of Antichriſt: And the Divel is now turn'd Scul<g ref="char:EOLhyphen"/>lian,
+<pb n="20" facs="tcp:35452:14"/> and is now going to skowring, to make ſome Souls brigh<g ref="char:EOLhyphen"/>ter and better; for that end he hath put himſelf into a White Surplice and in a pair of Lawn Sleeves, but by that time he hath done his work, he will make his White Surplice and his Lawn Sleeves as black as himſelf; as old as I am I may live to ſee it.</p>
+               <p>Husband, I would ask thee but one queſtion about the ſin of wearing Hats, which they ſo much condemn.</p>
+               <p>Wife, I'le tell thee, Geſtures and Veſtures have antiently been the work of the Convocation-houſe, next unto the Trade of Net-making, which holds good to this day; for now they make the Meſhes of the Net ſo narrow, that a man cannot get through with a good Conſcience, unleſſe he leave that behind him, but the Divel will be ready to help him, firſt by telling him that it were better to yield than that the Benefit which o<g ref="char:EOLhyphen"/>thers might have by his Miniſtry ſhould be loſt; ſecondly, that in regard of his relations, his Wife and Children that have de<g ref="char:EOLhyphen"/>pendance on him; or thirdly, that it may be he hath gotten a little money or means, 'twill quickly be gone. True it is, Pre<g ref="char:EOLhyphen"/>lacy may be down, but yet it may ſtand long enough to ſee him ſpend all he hath, and thus he will pull him by the ears, eſpecially if it be ever a whit a good living, but he will have him through. A Boy was ſeen to offer a Candle to the Picture of the Divel which was drawn behind the door, one demanded wherefore he did it, he anſwered I do not know what need I may have of him; friends, if you have need to uſe him he will be very ready to ſerve you without a Candle, he can doe his work in the dark; for nothing but meerly for your Souls ſake, and he will be as curteous to you as he hath been to <hi>Br.—</hi>he will make ſuch a Gapp in your Conſcience, that a buſh of Thorns may be drawn through forward and backward, and never prick it. The worſt of it is, that two buſhes will hardly ſtop it again. Look you to that.</p>
+               <p>But good Wife, I am an old Man, and we have two little boys, if I die and you ſurvive me, prithee put neither of them two an Apprentice to that Trade of Ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-making, if <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou ſhould, before they have ſerved half their time, their Maſters will break or give over, and then they muſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be turned over to <hi>Rome</hi> to ſerve the reſt of their time, into which they have made ſuch a fair
+<pb n="21" facs="tcp:35452:14"/> progreſs here; but, that's not all, I have no mind to that Trade, I had much rather you would put them <hi>Apprentices</hi> to a Sweep-Chimney, that's a Trade newly come in faſhion, and its like to hold as long as they live, I do not know whether it may out-live its ſiſters Contribution and Exciſe. But that's not all yet nei<g ref="char:EOLhyphen"/>ther, Wife, I am now very ſerious with you, it entrencheth and encroacheth very much upon that incomparable <hi>Magna Charta</hi> that was made by the greateſt Monarch that ever ſway'd Scep<g ref="char:EOLhyphen"/>ter: Sealed with his own moſt pretious blood, and who accoun<g ref="char:EOLhyphen"/>ted it great dignity to be ſtiled King of Saints, and is aprointed thereunto of his Father, <hi>Pſal.</hi> 2. and whoſe Father is God o<g ref="char:EOLhyphen"/>ver all, bleſſed for ever: in this <hi>Magna Charta</hi> are Recorded his Prerogatives Royal, one of them is to make Lawes for his Subjects, and thoſe Lawes are as abſolutely perfect as himſelf, and his Subjects for their Souls have but that one onely Law-giver, and his Laws for duration of time hold until he make a new <hi>Magna Charta</hi> never to be Repealed by any Act or Acts of men: In this <hi>Magna Charta</hi> are Recorded likewiſe his Sub<g ref="char:EOLhyphen"/>jects Priviledges, their Immunities and Freedoms, being not confined to any circumſcript place to Worſhip him in, ſo that they Worſhip him in Spirit, and in Truth, Its their Priviledge to meet as occaſion may ſerve, to hear his Word, to Pray, to Communicate and participate of his Ordinances according to the Dictates and Commands of the ſaid <hi>Magna Charta;</hi> he hath alſo his Officers Recorded in this <hi>Magna Charta,</hi> Paſtors, Teachers, Elders. Here come now a ſort of fellowes, whence I know not, ſome ſay from <hi>Rome,</hi> ſome ſay they are Chips of <hi>Jeroboams</hi> Block, others ſay they are of thoſe Angels that ſtand at the four corners of the earth, to hold the winds that they blow not, ſome ſay that they are of thoſe Locuſts that come out of the bottomleſſe pit, indeed they ſmell pitifully of the ſmoak of ignorance; well Wife, let them come from whence they will come, ſure I am, they are a company of mad fel<g ref="char:EOLhyphen"/>lowes of them; for the firſt thing they doe, they pick a quarrel with the King concerning the Government that is upon his ſhoulders, and his Kingdome that ſhall have no end; and as Whores<g ref="char:punc">▪</g> when they fall together by the ears, the firſt thing they do they make at the head, and off goes the Coyf or Head-geer;
+<pb n="22" facs="tcp:35452:15"/> ſo do theſe, the firſt blow they give is at the head, and off goes his Crown and Dignity, its but a trick of the old Whore, and un King him by taking away his prerogative-Royal, annihila<g ref="char:EOLhyphen"/>ting and making of no validity his Lawes, and by their actions in effect charging him thus, That he is an imperfect King, in<g ref="char:EOLhyphen"/>ſufficient for Government, wanting wiſdom to rule and that his Lawes are very imperfect, like the Nouns <hi>Heteroclites, in quae genus,</hi> ſome ſuperant, others deficient, ſome have too much in them, ſome too little, and therefore they have other Lawes of humane invention, which will ſerve their turn better, and by them they hope to keep their Revenues, and find themſelves ſomewhat to do; for nothing do nothing have, and ſo fall to perſecute (which as we ſay in a Countrey Proverb) is as natural to them as for a Calf to ſuck Milk.</p>
+               <p>And now Wife, prethee tell me, are not theſe a parcel of pretty fellows, I believe you'le ſay as I ſay anone; but tell me VVife, whence had they doſt think this their form of Govern<g ref="char:EOLhyphen"/>ment at firſt?</p>
+               <p>Indeed Husband I do not know, whence ſay you?</p>
+               <p>I do imagine Wife where they had it, heark a word in your ear, becauſe no body ſhall know what we ſay: <hi>[I do think the Devil brought it over Sea in his Plocket, for it ſmells very Romiſh, and hath a ſtrong tatch o'th old Whore.]</hi> But of that not a word more good Wife.</p>
+               <p>Well Wife, now wee'le ſpeak a word concerning thoſe that ſpeak in his Name, ſome of them they ſuſpend, impriſon, they put the Conſciences of others in the Stocks, and unleſs they will ſet up their poſts by Gods poſts, and their Threſholds by Gods Threſholds of which the Lord complaineth by <hi>Ezekiel,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Or<g ref="char:EOLhyphen"/>dinances of men by the Ordinances of God they ſhall not ſpeak in his Name, unleſs they will firſt give the people a little Frith Froth, Riff Roff, Slibber Slobber, Whiſh Wayſh; ſuch ſtuff in the guts, being ſo windy, would quickly endanger and cauſe the <hi>Il<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ia capatio,</hi> and make the Carkaſs of a poor Soul look like <hi>Prometheus</hi> ſacrifice, skin and bone without fleſh; againſt which there is an Antipathy in the Souls of thoſe that look for the bread of Life.</p>
+               <p>Next they come to ſuch Aſſembles of the Kings Subjects, where they meet to Worſhip him, and take away both their
+<pb n="23" facs="tcp:35452:15"/> priviledges and their perſons, or by their means they are ſo dealt withal contrary to the <hi>Magna Charta</hi> of their great King, <hi>Kings-bench, Dedford, Bridewell, Gate-houſe, Newgate</hi> and other priſons will teſtifie it; but none in <hi>Bedlam.</hi> One ſaith, that when the Devil ſhewed our Saviour all the Kingdoms of the earth, he never ſhewed him <hi>Ireland,</hi> he kept that for himſelf: Surely, theſe fellows keep <hi>Bedlam</hi> for themſelves, the fitteſt place for ſuch mad fellows; <hi>Bedlamites</hi> let them be then.</p>
+               <p>But Husband, you have almoſt forgotten the Text, you were ſpeaking a word about the ſin of wearing Hats.</p>
+               <p>No Wife, I was ſomething long in ſpeaking a word of ſmall Conſolation to thoſe that were of the houſe of Convocation, <hi>I</hi> remember we were ſpeaking of the ſin of wearing Hats in Ser<g ref="char:EOLhyphen"/>mon time, a Cap of Linnen or woollen is as tollerable as the Doctours ſilk Cap, and if a Wollen Cap may be worn, why may not the Felt-maker make him as well as the Taylour? Being both ſpecies of the ſame <hi>Genus,</hi> both made of wool, the ſin muſt be then in the breedes or brimms, which being cut off, the ſin is done away. I know they draw an argument <hi>(a pari)</hi> thus, If men ſhew ſuch reverence to an Ambaſſadour that is ſent from an earthly Prince, how much more to an Ambaſſador that is ſent from the King of Kings: Firſt, this is not general<g ref="char:EOLhyphen"/>ly ſo, for in ſome Countreys as in <hi>Ruſſia</hi> and other Countreys, if you put off your Hat to ſalute they'le go nigh to ſtab, taking it for a jeer; and the French preach with their Hats on; if a man put not off his Hat, its no breach of any Law, their being no Statute for it, men do it out of civility to an ambaſſadour, it being a Cuſtom; and if a man keep on his Hat in Sermon time, its no ſin, becauſe there is no prohibition if it be not the cuſtom of the place I ſee no reaſon why the Preacher ſhould beget a cu<g ref="char:EOLhyphen"/>ſtom, ſeeing he hath no Warrant from the word. But to prove that they are ſent, &amp; are Ambaſſadours from the King of Kings, here they'l have a hard tugg on't, let them prove their Miſſion or Sending, I know how they are called juſt as Hoggs to the Troughs; the Maid comes and puts the meat in the Trough the piggs it may be are graſing in the paſtures or Commons, ſhe takes the pail, jumbles aad knock it from ſide to ſide againſt the Trough, and calls them upon the report of the pail, away
+<pb n="24" facs="tcp:35452:16"/> they come as faſt as they can creep through Hedges, tumble over the little Pigs in their way, or out-run them, and to the Troughs they come, and from one Trough to another, leaving it may<g ref="char:punc">▪</g>be a little in the bottom for the little Piggs that come after; Even ſo when they hear the report that ſuch a Deanry, Prebendſhip or fat Parſonage is fallen, they take Horſe and away they ride Poſt as faſt as they can, out-run ſome of their leſſer fellows from one living to another, until they have gotten two or three li<g ref="char:EOLhyphen"/>vings, &amp; then they 'le deal kindly with the Devil, they 'le ſerve in one place, let the Devil take t'other, or ſend one in his place that ſhall do the Devil as little hurt as himſelf, who ſhall live by the Lickings of the Trough; thoſe in ſome places are called Rats, in other places Curates: And upon this riding Poſt, the queſtion aroſe of the two Creatures which were moſt miſerable, Horſes or Aſſes; it was determined, Horſes; becauſe they were many times rod Poſt to get livings for Aſſes; but theſe fellows can ſwallow a great deal of Popiſh traſh, Towers and Steeples, and yet cannot endure that a man ſhould ſit with his Hat on: Wife, prethee, are they not favoured like thoſe Hypocrites our Saviour ſpeaks of, <hi>That strein at a Knat, and ſwallow a Camel?</hi>
+               </p>
+               <p>But cannot they, Husband, prove their Miſſion or Sending from the Biſhop?</p>
+               <p>Yes Wife, they can, thus, according as it is in the Book of Orders, after the Prieſt (for ſo the Book of Orders ſtiles them) hath promiſed the Biſhop due Reverence and Obedience; the Biſhop puts his hand on his head, and ſaith, <hi>Receive the holy Ghost, whoſe ſins ye remit,</hi> &amp;c. <hi>be thou a faithful diſpenſour of the Word:</hi> Here he ſhews himſelf to be Chriſt, or rather Anti-Chriſt, who ſits in the temple of God, ſhewing himſelf that he is God, when the poor Patriarch could give no more then did hang on his fingers, when he laid them on the Prieſts head. What ſay you wife, is not this pretty ſtuff, that ever any man in a day after ſo much light breaking forth, ſhould be brought under ſuch <hi>Egyptian</hi> blindneſs<g ref="char:punc">▪</g> and as they are that make them, ſo are they that are made by them: But ſtay a little Wife be<g ref="char:EOLhyphen"/>fore we go to Bed, for our Candle begins to grow ſhort, we muſt not let this go ſo.</p>
+               <p>The Biſhop himſelf, whence ere he come, God never ſent
+<pb n="25" facs="tcp:35452:16"/> him; for God never ſent a man and puts him upon impoſſibili<g ref="char:EOLhyphen"/>ties; the word is no more, as is commonly known, than O<g ref="char:EOLhyphen"/>verſeer to overſee his Flock, to be diligent to know the ſtate of the Flock, to viſit the ſick, to preach the Word in ſeaſon and out of ſeaſon: Theſe are part of his duties belonging to his Office, theſe things are impoſſible for his Lordſhip to per<g ref="char:EOLhyphen"/>form; and therefore we muſt ſend him to look another Maſter, that ſends him on his Errand.</p>
+               <p>Wee'le talk a little of his duty for Preaching that he doth not; for he neither preacheth in ſeaſon nor out of ſeaſon, or very ſeldom, nay moſt of them preaching down preaching, and ſome of the fraternity ſpeaking contemptuouſly and jearingly againſt thoſe that preach twice in a day, ſaying, that they are like <hi>Virgils</hi> Cow that <hi>bis venit ad mulctram,</hi> came twice in a day to the Pail, indeed, they come but ſeldom to the Pail, and when they do come, 'tis a poor quantity of thin geer they give, let it ſtand, there will be no Cream on't, they were as good kick it down, for they put ſome bitter thing or other in it like worm<g ref="char:EOLhyphen"/>wood, which is good in beer but not in Milk, and rub the breaſt with it, and wean the Children apace; ſome ſuch Milk the Dean of <hi>Norwich</hi> lately gave, which made bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Man and Owle admire him for in his Sermon at <hi>Norwich</hi> preaching againſt preaching and long pra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers, which ſome made, as he ſaid, an Ell long, and which, as he ſaid, he was aſſured, was of no Divine <note place="margin">
+                     <hi>Certified in a Letter to</hi> London <hi>from a v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ry good hand.</hi>
+                  </note> Inſtitution; whereat an Owl ſtanding or flying over his head, Hemm'd him up with a note of admiration, crying, Hoo, Hoo, Hoo. What Milk that was that the Biſhop of <hi>Liechfield</hi> and <hi>Coventry</hi> gave down about the midſt of <hi>May,</hi> as fruitful<g ref="char:punc">▪</g> a ſeaſon as they ear affords what Milk that was I do not know, for he in the Adminiſtration of pope <hi>Clements</hi> Ordinance, pope <hi>Melciades</hi> Sacrament, delivered it to the blew coate boyes, a mong the reſt to one <hi>Iohn Hurſt</hi> a Limner whoſe Mother dwels at the <hi>Swan</hi> in <hi>Newgate-Market,</hi> who could never ſpeak nor hear; he poured it in at their ears, with which they made their confeſſion of Faith, for they never open'd their lips<g ref="char:punc">▪</g> and which is to be admired, how the Biſhop could confirm them in Faith, that had none, or if they had it was more than he knew.</p>
+               <pb n="26" facs="tcp:35452:17"/>
+               <p> The worſt on't is, if any give better Milk, thoſe curſt kine wil endeavour to kick it down, or ſtrike down the poor Crea<g ref="char:EOLhyphen"/>ture that gave it. I could wiſh thoſe curſt kine ſhort horns.</p>
+               <p>VVife, being time to go to bed, we will talk no more to night, but leave till another ttme, and then we will begin with <hi>Magna Charta,</hi> and talk over three or four ſheets more. Good Husband you take the Child and the Candle, Ile take the VVarming-pan and ſome Coles, and ſo to Bed.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>
+               <hi>Read the two lines,</hi> But this, &amp;c. <hi>in Folio</hi> 7. <hi>after</hi> 27 <hi>lines.</hi>
+            </p>
+            <l>But this our Doctours, Proctours could</l>
+            <l>In no wiſe well digeſt.</l>
+            <p>
+               <hi>Read</hi> VVhy do we, &amp;c. <hi>in Folio</hi> 9. <hi>after</hi> 16 <hi>lines.</hi>
+            </p>
+            <l>VVhy do we not that would he thought</l>
+            <l>Good Subjects in requeſt,</l>
+            <l>Firſt to the Lord, then to the King,</l>
+            <l>Theſe things may be redreſt.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
